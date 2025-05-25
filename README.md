@@ -23,6 +23,8 @@ A modern, production-ready **Next.js 15** starter template with **Material-UI (M
 
 ## 🚀 Quick Start
 
+This repository was bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 ### Prerequisites
 
 - Node.js 18+ 
